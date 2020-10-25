@@ -3,10 +3,12 @@
  */
 package automation.api.java;
 
+import org.hamcrest.CoreMatchers;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class AppTest {
     @Test public void testAppHasAGreeting() {
+        assertThat(1, CoreMatchers.is(1));
     }
 }

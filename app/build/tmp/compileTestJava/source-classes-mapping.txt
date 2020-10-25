@@ -1,0 +1,2 @@
+automation/api/java/AppTest.java
+ automation.api.java.AppTest

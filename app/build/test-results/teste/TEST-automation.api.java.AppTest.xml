@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automation.api.java.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-25T19:06:12" hostname="MacBook-Air-de-Gabriela.local" time="0.007">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="automation.api.java.AppTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
